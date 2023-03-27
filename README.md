@@ -1,4 +1,4 @@
-# L2jOpenSource
+# L2j
 
 Project SVN : https://svn.code.sf.net/p/l2jopensource/projects/ 
 
